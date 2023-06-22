@@ -41,7 +41,7 @@ external-controller: '0.0.0.0:9090'
 # external-ui: folder
 # yacd面板：  https://github.com/haishanh/yacd
 # Razord面板：http://clash.razord.top/#/proxies
-# external-ui: dashboard
+external-ui: /opt/clash-dashboard
 
 # RESTful API 的口令 (可选)
 # secret: ""
