@@ -8,6 +8,7 @@ IP-CIDR,142.132.157.0/24,no-resolve
 IP-CIDR,185.248.86.0/24,no-resolve
 IP-CIDR,45.80.188.0/24,no-resolve
 IP-CIDR,194.169.54.0/24,no-resolve
+IP-CIDR,45.14.105.0/24,no-resolve
 
 
 DOMAIN-SUFFIX,duohao.xyz
