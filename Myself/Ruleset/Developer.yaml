@@ -5,3 +5,4 @@ payload:
   - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,docker.io
+  - DOMAIN-KEYWORD,github
