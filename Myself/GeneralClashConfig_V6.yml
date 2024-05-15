@@ -30,7 +30,7 @@ mode: rule
 
 # 设置日志输出级别 (默认级别：silent，即不输出任何内容，以避免因日志内容过大而导致程序内存溢出）。
 # 5 个级别：silent / error / warning / info / debug。级别越高日志输出量越大，越倾向于调试，若需要请自行开启。
-log-level: error
+log-level: info
 
 # Clash 的 RESTful API
 external-controller: '0.0.0.0:9090'
@@ -41,7 +41,7 @@ external-controller: '0.0.0.0:9090'
 # external-ui: folder
 # yacd面板：  https://github.com/haishanh/yacd
 # Razord面板：http://clash.razord.top/#/proxies
-external-ui: /opt/clash-dashboard
+# external-ui: /opt/clash-dashboard
 
 # RESTful API 的口令 (可选)
 # secret: ""
