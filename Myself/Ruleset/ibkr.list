@@ -1,9 +1,9 @@
-DOMAIN-SUFFIX,ibllc.com
-DOMAIN-SUFFIX,ibllc.com.cn
-DOMAIN-SUFFIX,ibkr.com
-DOMAIN-SUFFIX,interactivebrokers.com
-DOMAIN-SUFFIX,mcgw1.ibllc.com.cn
-DOMAIN-SUFFIX,moomoo.com
+#DOMAIN-SUFFIX,ibllc.com
+#DOMAIN-SUFFIX,ibllc.com.cn
+#DOMAIN-SUFFIX,ibkr.com
+#DOMAIN-SUFFIX,interactivebrokers.com
+#DOMAIN-SUFFIX,mcgw1.ibllc.com.cn
+#DOMAIN-SUFFIX,moomoo.com
 DOMAIN-SUFFIX,tradytics.com
 DOMAIN-KEYWORD,tradesviz
 DOMAIN-SUFFIX,irs.gov
@@ -11,8 +11,8 @@ DOMAIN-SUFFIX,id.me
 DOMAIN-SUFFIX,idme.zendesk.com
 DOMAIN-SUFFIX,beyondoption.com
 DOMAIN-SUFFIX,financialjuice.com
-DOMAIN-SUFFIX,schwab.com
+#DOMAIN-SUFFIX,schwab.com
 DOMAIN-SUFFIX,ripstereducation.com
 DOMAIN-SUFFIX,protradingroom.com
 DOMAIN-SUFFIX,tenettradegroup.com
-DOMAIN-SUFFIX,firstrade.com
+#DOMAIN-SUFFIX,firstrade.com
