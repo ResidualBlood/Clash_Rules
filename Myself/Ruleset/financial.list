@@ -12,6 +12,10 @@ DOMAIN-SUFFIX,schwab.net
 DOMAIN-SUFFIX,schwabcdn.com
 DOMAIN-SUFFIX,thinkorswim.com
 DOMAIN-SUFFIX,tdameritrade.com
+DOMAIN-SUFFIX,okta.com
+DOMAIN-SUFFIX,vip.symantec.com
+DOMAIN-SUFFIX,edgekey.net
+DOMAIN-SUFFIX,omtrdc.net
 IP-CIDR,162.93.0.0/16,no-resolve
 IP-CIDR,74.114.36.0/22,no-resolve
 
