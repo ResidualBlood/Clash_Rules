@@ -30,3 +30,10 @@ DOMAIN-SUFFIX,apexfintechdocuments.com
 DOMAIN-SUFFIX,investordelivery.com
 DOMAIN-SUFFIX,proxyvote.com
 DOMAIN-SUFFIX,icsdelivery.com
+
+# Kraken
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,payward.com
+DOMAIN-SUFFIX,kraken.tech
+DOMAIN-SUFFIX,krakenwm.com
+DOMAIN-KEYWORD,kraken
