@@ -38,3 +38,17 @@ DOMAIN-SUFFIX,kraken.tech
 DOMAIN-SUFFIX,krakenwm.com
 DOMAIN-SUFFIX,kraken.zendesk.com
 DOMAIN-KEYWORD,kraken
+
+# Others
+DOMAIN-SUFFIX,tradingview.com
+DOMAIN-SUFFIX,gexbot.com
+DOMAIN-SUFFIX,cheddarflow.com
+
+DOMAIN-SUFFIX,beyondoption.com
+DOMAIN-SUFFIX,financialjuice.com
+DOMAIN-SUFFIX,ripstereducation.com
+DOMAIN-SUFFIX,protradingroom.com
+DOMAIN-SUFFIX,tenettradegroup.com
+DOMAIN-SUFFIX,tenetresearch.ai
+DOMAIN-SUFFIX,tradytics.com
+DOMAIN-KEYWORD,tradesviz
