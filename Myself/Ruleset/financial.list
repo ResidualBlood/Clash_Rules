@@ -52,3 +52,6 @@ DOMAIN-SUFFIX,tenettradegroup.com
 DOMAIN-SUFFIX,tenetresearch.ai
 DOMAIN-SUFFIX,tradytics.com
 DOMAIN-KEYWORD,tradesviz
+
+# protradingroom.com WebRTC
+IP-CIDR,212.50.247.11/32,no-resolve
