@@ -54,4 +54,4 @@ DOMAIN-SUFFIX,tradytics.com
 DOMAIN-KEYWORD,tradesviz
 
 # protradingroom.com WebRTC
-IP-CIDR,212.50.247.11/32,no-resolve
+IP-CIDR,212.50.247.0/24,no-resolve
