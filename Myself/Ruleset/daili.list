@@ -21,3 +21,10 @@ IP-CIDR6,2620:149:a44::/48,no-resolve
 IP-CIDR6,2403:300:a42::/48,no-resolve
 IP-CIDR6,2403:300:a51::/48,no-resolve
 IP-CIDR6,2a01:b740:a42::/48,no-resolve
+
+# Google 官方 STUN 服务器组 WebRTC 相关
+DOMAIN-SUFFIX,stun.l.google.com
+DOMAIN-SUFFIX,stun1.l.google.com
+DOMAIN-SUFFIX,stun2.l.google.com
+DOMAIN-SUFFIX,stun3.l.google.com
+DOMAIN-SUFFIX,stun4.l.google.com
