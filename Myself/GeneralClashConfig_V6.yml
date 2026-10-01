@@ -64,7 +64,6 @@ dns:
     - '*.time.edu.cn'
     - '*.ntp.org.cn'
     - '*.openwrt.pool.ntp.org'
-    - '+'
     
   # 新版分流解析逻辑，去除繁杂的 fallback
   default-nameserver:
