@@ -59,3 +59,4 @@ build/
 # 其他常见
 Thumbs.db
 desktop.ini
+.opencode/
