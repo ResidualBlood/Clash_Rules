@@ -12,10 +12,8 @@ DOMAIN-SUFFIX,schwab.net
 DOMAIN-SUFFIX,schwabcdn.com
 DOMAIN-SUFFIX,thinkorswim.com
 DOMAIN-SUFFIX,tdameritrade.com
-DOMAIN-SUFFIX,okta.com
+DOMAIN-SUFFIX,interactivebrokers.okta.com
 DOMAIN-SUFFIX,vip.symantec.com
-DOMAIN-SUFFIX,edgekey.net
-DOMAIN-SUFFIX,omtrdc.net
 IP-CIDR,162.93.0.0/16,no-resolve
 IP-CIDR,74.114.36.0/22,no-resolve
 
@@ -55,11 +53,3 @@ DOMAIN-SUFFIX,tenetresearch.ai
 DOMAIN-SUFFIX,tradytics.com
 DOMAIN-KEYWORD,tradesviz
 
-# --- 其他 ---
-DOMAIN-SUFFIX,supabase.co
-DOMAIN-SUFFIX,chatbase.co
-DOMAIN-SUFFIX,tidio.co
-DOMAIN-SUFFIX,getbeamer.com
-DOMAIN-SUFFIX,weglot.com
-DOMAIN-SUFFIX,datafa.st
-DOMAIN-SUFFIX,mailerlite.com
