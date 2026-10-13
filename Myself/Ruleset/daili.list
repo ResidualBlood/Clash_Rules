@@ -11,3 +11,23 @@ DOMAIN-SUFFIX,stun1.l.google.com
 DOMAIN-SUFFIX,stun2.l.google.com
 DOMAIN-SUFFIX,stun3.l.google.com
 DOMAIN-SUFFIX,stun4.l.google.com
+
+# Cloudflare Tunnel 管理面板 / Zero Trust 后台
+DOMAIN,p.duohao.xyz
+DOMAIN,pt.duohao.xyz
+DOMAIN,vertex.duohao.xyz
+DOMAIN,grafana.duohao.xyz
+DOMAIN,frnpm.duohao.xyz
+DOMAIN,npmyy.duohao.xyz
+DOMAIN,h1dockge.duohao.xyz
+DOMAIN,h1npm.duohao.xyz
+DOMAIN,npmjp.252122.xyz
+DOMAIN,npmjpv6.252122.xyz
+
+# Cloudflare Pages / 前端静态站
+DOMAIN,mv.duohao.xyz
+DOMAIN,zy.duohao.xyz
+DOMAIN,tools.duohao.xyz
+DOMAIN,achive.duohao.xyz
+DOMAIN,lwnlh.com
+DOMAIN,www.lwnlh.com
